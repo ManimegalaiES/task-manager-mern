@@ -154,13 +154,3 @@ http://localhost:5173
 
 ---
 
-# GitHub Push Instructions
-
-```bash
-git init
-git add .
-git commit -m "Initial commit"
-git branch -M main
-git remote add origin <repository-url>
-git push -u origin main
-```
